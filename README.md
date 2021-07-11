@@ -12,6 +12,14 @@ http://130.0.24.6:2831/udp/239.101.43.77:2345
 http://130.0.24.6:2831/udp/239.101.43.101:2345
 #EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/aaeIXeo.png",[$]ORA 
 http://130.0.24.6:2831/udp/239.101.43.79:2345
+#EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png",[$]RTSH 1HD * 
+http://130.0.24.6:2831/udp/239.101.43.23:2345 
+#EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png",[$]RTSH 2HD * 
+http://130.0.24.6:2831/udp/239.101.43.89:2345 
+#EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png",[$]RTSH 3HD * 
+http://130.0.24.6:2831/udp/239.101.43.67:2345 
+#EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png",[$]RTSH SPORT HD * 
+http://130.0.24.6:2831/udp/239.101.43.24:2345
 
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",[$]RTK 1HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
