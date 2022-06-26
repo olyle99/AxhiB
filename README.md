@@ -6,8 +6,6 @@ http://130.0.24.6:2831/udp/239.101.101.25:2345
 http://130.0.24.6:2831/udp/239.101.43.91:2345
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]Klan 
 http://130.0.24.6:2831/udp/239.101.43.76:2345
-#EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]Klan sport
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/209
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",[$]Klan Plus 
 http://130.0.24.6:2831/udp/239.101.43.77:2345
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",[$]ALSAT-M 
